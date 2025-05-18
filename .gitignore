@@ -172,3 +172,25 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Environment
+env/
+.venv/
+.env
+
+# Django
+db.sqlite3
+
+# VSCode
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
